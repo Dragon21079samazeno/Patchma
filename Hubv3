@@ -1,12 +1,4 @@
---[[
-	patchma hub by MyWorld
-	legends never die
-	unless they get patched
-
-	-gh 13421786478,13421911402,13421828828,13421768871,13415165827
-]]
-
---findfirstchildofclass faster than getservice
+findfirstchildofclass faster than getservice
 local plrs=game:FindFirstChildOfClass("Players")
 local rs=game:FindFirstChildOfClass("RunService")
 local ws=game:FindFirstChildOfClass("Workspace")
